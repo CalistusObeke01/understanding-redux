@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: -12px;
+}
+.sub-title {
+  margin-bottom: 2rem;
+  color: grey;
+  letter-spacing: 1px;
+}
+.amount-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.amount {
+  border: 1px solid grey;
+  padding: 0.6em;
+  background-color: cornsilk;
+  border-radius: 4px;
+}
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.input-fund {
+  padding: 0.4em 0.6em;
+  width: 70%;
+}
+
+.btn {
+  cursor: pointer;
+}
